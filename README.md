@@ -1,8 +1,6 @@
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Your GIF" width="100%" />
 <h1 align="center">Hi 👋, I'm Niloy Bhuiyan</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Your GIF" width="100%" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niloybhuiyan00&label=Profile%20views&color=0e75b6&style=flat" alt="niloybhuiyan00" /> </p>
 
 - 🔭 I’m currently working on ****Python & Machine Learning project****
