@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Niloy Bhuiyan</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
+<h3 align="center">A Passionate ML Engineer & CSE student from Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niloybhuiyan00&label=Profile%20views&color=0e75b6&style=flat" alt="niloybhuiyan00" />
